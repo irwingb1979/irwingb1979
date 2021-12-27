@@ -7,6 +7,6 @@ I'm digital artist, Web Designer and developer with a bunch of skills in:
 - :art: CSS / HTML
 - 💬 Wordpress
 - 📫 PHP
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Bootstrap
+- ⚡ Photoshop - Illustrator
 
