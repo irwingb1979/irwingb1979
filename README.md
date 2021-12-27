@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm digital artist, Web Designer with a bunch of skills in:
+I'm digital artist, Web Designer and developer with a bunch of skills in:
 - 🔭 Fronend Design
 - 🌱 UX/UI
 - 👯 Javascript
