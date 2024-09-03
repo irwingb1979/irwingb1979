@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm digital artist, Web Designer and FronEnd Developer with a bunch of skills in:
-- 🔭 Fronend Design
+I'm a digital artist, Web Designer, and FronEnd Developer with a bunch of skills in:
+- 🔭 Frontend Design
 - 🌱 UX/UI
 - :computer: Javascript
 - :art: CSS / HTML
-- 💬 Wordpress
+- 💬 WordPress
 - 📫 PHP
 - 😄 Bootstrap
 - ⚡ Photoshop - Illustrator
